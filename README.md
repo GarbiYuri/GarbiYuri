@@ -5,6 +5,7 @@
 Me chamo Francisco Yuri Garbi, tenho 18 anos e sou de Mogi Guaçu/SP. Concluí o ensino médio na Etec Pedro Ferreira Alves, com o curso técnico em Desenvolvimento de Sistema. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Fatec.
 
 <p align="left">
+<!--
     <a href="https://github.com/GarbiYuri?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
@@ -19,11 +20,26 @@ Me chamo Francisco Yuri Garbi, tenho 18 anos e sou de Mogi Guaçu/SP. Concluí o
             src="https://custom-icon-badges.demolab.com/github/followers/GarbiYuri?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
+-->
     <a href="https://github.com/GarbiYuri">
         <img 
             alt="Total Commits" 
             title="Total de Commits" 
             src="https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=git&logoColor=fff&color=eb6420&labelColor=c24d14&style=for-the-badge&label=Total%20Commits&query=%24.totalContributions&url=https%3A%2F%2Fstreak-stats.demolab.com%2F%3Fuser%3DGarbiYuri%26type%3Djson"
+        />
+    </a>
+    <a href="https://www.linkedin.com/in/franciscogarbi" target="_blank">
+        <img 
+            alt="LinkedIn" 
+            title="Meu LinkedIn" 
+            src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=005582"
+        />
+    </a>
+    <a href="https://www.instagram.com/franciscoyuri_kk" target="_blank">
+        <img 
+            alt="Instagram" 
+            title="Meu Instagram" 
+            src="https://custom-icon-badges.demolab.com/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=d62976"
         />
     </a>
 </p>
@@ -149,25 +165,29 @@ Me chamo Francisco Yuri Garbi, tenho 18 anos e sou de Mogi Guaçu/SP. Concluí o
 
 ### 📂 Projetos em Destaque
 
-<table border="1">
+<table border="0">
   <tr>
     <td width="50%" valign="top">
-      <h4>🚀 API Spring Boot - Sistema de Gestão</h4>
-      <p>Criação de uma rede social com Posts, Usuarios, Comentários, reações ,roles de admin e users, com soft deletes para usuarios e segurança de dados utilizando o Spring Security. </p>
-      <p>
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" height="20">
-        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" height="20">
+      <p align="left">
+        <strong>🚀 SocialMedia API</strong><br/>
+        Rede social completa com Spring Security (JWT), Roles, Soft Deletes e relacionamentos complexos entre usuários e posts.
       </p>
-      <a href="https://github.com/GarbiYuri/SocialMedia-SpringBoot">Ver Repositório</a>
+      <p>
+        <a href="https://github.com/GarbiYuri/SocialMedia-SpringBoot">
+          <img src="https://img.shields.io/badge/Acessar_Repositório-000?style=for-the-badge&logo=github&logoColor=white" height="25">
+        </a>
+      </p>
     </td>
     <td width="50%" valign="top">
-      <h4>🌐 Laravel Web - E-Commerce</h4>
-      <p>Projeto TCC 2025 (Seu Doce Pedido) - Feito como Projeto em Grupo em Curso Técnico de Desenvolvimento de Sistemas. Um e-commerce para vendas de doces.</p>
-      <p>
-        <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" height="20">
-        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" height="20">
+      <p align="left">
+        <strong>🌐 Seu Doce Pedido</strong><br/>
+        E-commerce robusto desenvolvido como TCC. Foco em experiência de compra, gestão de pedidos e catálogo de produtos.
       </p>
-      <a href="https://github.com/GarbiYuri/Seu_Doce_Pedido">Ver Repositório</a>
+      <p>
+        <a href="https://github.com/GarbiYuri/Seu_Doce_Pedido">
+          <img src="https://img.shields.io/badge/Acessar_Repositório-000?style=for-the-badge&logo=github&logoColor=white" height="25">
+        </a>
+      </p>
     </td>
   </tr>
 </table>
